@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-Kotlin-Flip-Card-Effect</string>
+    <string name="textButton">ROTATE</string>
+</resources>
